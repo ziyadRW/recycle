@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recyce/static/css/main.bdb28d0e.css",
+    "main.js": "/recyce/static/js/main.ca8d1bf0.js",
+    "static/js/453.1de4fd85.chunk.js": "/recyce/static/js/453.1de4fd85.chunk.js",
+    "static/media/Forest.mp4": "/recyce/static/media/Forest.2792e3fb59ffda2c5421.mp4",
+    "static/media/image-removebg-preview.png": "/recyce/static/media/image-removebg-preview.6590db8885bd231da87c.png",
+    "static/media/imamu-2_1.png": "/recyce/static/media/imamu-2_1.fdc70df952b53e29109a.png",
+    "index.html": "/recyce/index.html",
+    "main.bdb28d0e.css.map": "/recyce/static/css/main.bdb28d0e.css.map",
+    "main.ca8d1bf0.js.map": "/recyce/static/js/main.ca8d1bf0.js.map",
+    "453.1de4fd85.chunk.js.map": "/recyce/static/js/453.1de4fd85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb28d0e.css",
+    "static/js/main.ca8d1bf0.js"
+  ]
+}
